@@ -1,5 +1,3 @@
-// src/models/student.js
-
 import { model, Schema } from 'mongoose';
 
 const noteSchema = new Schema(
